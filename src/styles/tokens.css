@@ -1,0 +1,17 @@
+:root {
+  color-scheme: dark;
+  --background: #171a19;
+  --surface: #222725;
+  --surface-secondary: #2c3230;
+  --olive: #899779;
+  --olive-light: #b6c2a4;
+  --sand: #c6b99e;
+  --text: #f1f2ee;
+  --text-secondary: #a0a8a1;
+  --border: #3b423e;
+  --muted: #59615b;
+  --heading: 'Space Grotesk', sans-serif;
+  --body: 'Inter', sans-serif;
+  --mono: 'IBM Plex Mono', monospace;
+  --page-width: 1400px;
+}
